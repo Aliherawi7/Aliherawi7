@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliherawi7&label=Profile%20views&color=0e75b6&style=flat" alt="aliherawi7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliherawi7" alt="aliherawi7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aliherawi7" target="blank"><img src="https://img.shields.io/twitter/follow/aliherawi7?logo=twitter&style=for-the-badge" alt="aliherawi7" /></a> </p>
 
 - 🔭 I’m currently working on [Resume Builder](https://resume-builder-af.netlify.app)
