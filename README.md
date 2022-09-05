@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Resume Builder](https://resume-builder-af.netlify.app)
 
-- 🌱 I’m currently learning **Spring boot Microservices**
+- 🌱 I’m currently learning **Docker and JUnit**
 
 - 💬 Ask me about **React, Javascript, Java, spring boot**
 
