@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [eShop-api](https://github.com/Aliherawi7/eShop_Api)
 
-- 🌱 I’m currently learning **Docker and JUnit**
+- 🌱 I’m currently learning **Docker and Cloud Computing**
 
 - 💬 Ask me about **React, Javascript, Java, spring boot**
 
