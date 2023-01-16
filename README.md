@@ -1,6 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on eshop-store <br>👯 I’m looking to collaborate on java app<br>🌱 I’m currently learning Docker and Aws<br>💬 Ask me about related technologies 
-
+Hi 👋 My name is Ali Herawi
+--Software Developer -- 
+An passionate fullstack developer with deep knowledge in Java and its "spring" framework. I have about 2 years of experience as a Frontend developer with "react", "bootstrap", and "HTML5". I'm seeking a challenging opportunity to build and develop large projects where my advanced skills, education, extensive training, and years of experience can be fully utilized. * 🌍  I'm based in Herat * 🚀  I'm currently working on eshop-store * 🧠  I'm learning Docker and aws * ⚡  I'm so into reading 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ali.herawi7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali-herawi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aliherawi7 ) 
