@@ -1,5 +1,5 @@
 # Hi 👋 My name is Ali Herawi
-## --Software Developer -- 
+## Software Developer 
 An passionate fullstack developer with deep knowledge in Java and its "spring" framework. I have about 2 years of experience as a Frontend developer with "react", "bootstrap", and "HTML5". I'm seeking a challenging opportunity to build and develop large projects where my advanced skills, education, extensive training, and years of experience can be fully utilized. * 🌍  I'm based in Herat * 🚀  I'm currently working on eshop-store * 🧠  I'm learning Docker and aws * ⚡  I'm so into reading 
 
 ## 🌐 Socials:
@@ -16,5 +16,3 @@ An passionate fullstack developer with deep knowledge in Java and its "spring" f
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Aliherawi7 &icon=2&color=1)](https://visitcount.itsvg.in)
