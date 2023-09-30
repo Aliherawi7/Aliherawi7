@@ -1,6 +1,7 @@
-# Hi 👋 My name is Ali Herawi
+# Hi 👋 My name is Ali Herawi 👋 Welcome to my GitHub profile!
 ## Software Developer 
-A passionate fullstack developer with deep knowledge in Java and its "spring" framework. I have about 4 years of experience as a Frontend developer and Backend developer. I'm seeking a challenging opportunity to build and develope large projects where my advanced skills, education, extensive training, and years of experience can be fully utilized.
+I'm passionate about coding and building innovative solutions. With a strong foundation in software development, I thrive on tackling complex challenges and turning ideas into reality.
+I enjoy creating clean, efficient, and scalable code. I actively contribute to open-source projects and love collaborating with other developers to build remarkable software. I have a deep understanding of software development principles, including agile methodologies, version control, and continuous integration.
 
 * 🌍  I'm based in Herat 
 * 🚀  I'm currently working on Sigma app
