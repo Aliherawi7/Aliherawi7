@@ -1,4 +1,4 @@
-# Hi 👋 My name is Ali Herawi 👋 Welcome to my GitHub profile!
+#  Ali Herawi 
 ## Software Developer 
 I'm passionate about coding and building innovative solutions. With a strong foundation in software development, I thrive on tackling complex challenges and turning ideas into reality.
 I enjoy creating clean, efficient, and scalable code. I actively contribute to open-source projects and love collaborating with other developers to build remarkable software. I have a deep understanding of software development principles, including agile methodologies, version control, and continuous integration.
